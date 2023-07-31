@@ -12,3 +12,4 @@
 [7-CHALLENGE #1 Tip Calculator](https://codesandbox.io/s/tip-app-dwkxn4?file=/src/App.js)
 ### Part-10: Thinking in React: Components, Composition and Reusability
 [10-Star Rating App](https://codesandbox.io/s/star-app-585n5s?file=/src/StarRating.js)
+[10-CHALLENGE #1: Text Expander Component](https://codesandbox.io/s/text-expander-sw8ycj?file=/src/App.js)
