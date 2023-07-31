@@ -8,4 +8,5 @@
 [6-EXERCISE #1 Flashcards](https://codesandbox.io/s/flash-cards-ym6h4z?file=/src/App.js) <br/>
 [6-CHALLENGE #2 Date Counter (v2)](https://codesandbox.io/s/date-counter-v2-k57mt9) <br/>
 ### Part-7 Thinking In React: State Management
-[7-EXERCISE #1-2: Accordion Component](https://codesandbox.io/s/accordion-question-p8pq9c?file=/src/App.js)
+[7-EXERCISE #1-2: Accordion Component](https://codesandbox.io/s/accordion-question-p8pq9c?file=/src/App.js) <br/>
+[7-CHALLENGE #1 Tip Calculator](https://codesandbox.io/s/tip-app-dwkxn4?file=/src/App.js)
