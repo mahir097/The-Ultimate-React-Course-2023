@@ -17,3 +17,6 @@
 [12-CHALLENGE #1: Currency Converter](https://codesandbox.io/s/currency-conventer-rtdxtl?file=/src/App.js)
 ### Part-13: Custom Hooks, Refs and More State
 [13-CHALLENGE #1 useGeolocate](https://codesandbox.io/s/customhook-usegeolocation-7n94vc)
+### Part-16: The Advanced useReducer Hook
+[16-useReducer Date Counter](https://codesandbox.io/s/usereducer-date-counter-2c97z4)
+[16-useReducer Code Overview](https://github.com/mahir097/The-Ultimate-React-Course-2023/assets/99602660/3c5c1a28-d765-4ee0-881a-f7984dd379c2)
